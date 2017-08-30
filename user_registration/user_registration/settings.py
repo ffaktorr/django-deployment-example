@@ -27,7 +27,7 @@ SECRET_KEY = 'phkgd7cyo+4%^1$+wjmak$x5kl&5(u53v%^b#wc#pvzarqo9sm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ffaktorr.pythonanywhere.com', ]
 
 # Application definition
 
